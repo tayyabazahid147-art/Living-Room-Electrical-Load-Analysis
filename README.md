@@ -25,6 +25,7 @@ Theory
 
 Results
 
+
 ✔ Calculated currents verified by simulation
 
 ✔ Monthly energy consumption estimated
